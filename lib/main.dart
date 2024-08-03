@@ -88,7 +88,7 @@ class _QuizPageState extends State<QuizPage> {
           ),
         ),
         // TODO: Add a Row here as your score keeper
-        Row(
+        const Row(
           children: <Widget>[
             Icon(
               Icons.check,
